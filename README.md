@@ -8,8 +8,8 @@ This is a copy of the mythical Metal Slug game done in Javascript + PhaserJs fra
 
 ## Installation
 
-- Clone the repo `git clone git@github.com:zzarcon/html5-slug.git`
-- Enter in the repo directory `cd html5-slug`
+- Enter in the repo directory `cd Metal`
 - Install npm dependencies `npm install`
 - Install bower dependencies `bower install`
-- Run the server `grunt` :D
+- Run the server `grunt`
+- Enjoy ;-)
